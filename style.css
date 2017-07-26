@@ -69,6 +69,9 @@ h3 {
   margin-right: 30px;
   color:rgb(60,60,60);
   font-weight: 500;
+  text-decoration: none;
+  text-align: center;
+  font-size:12px;
 }
 
 .list-nonbullet a:hover {
